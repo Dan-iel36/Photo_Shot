@@ -1,7 +1,4 @@
-//let i = 0
-// get photo element by id
-//add event listener, click
-//callback => increment i
+
 
 let increaseValue = 1;
 let score = 0
